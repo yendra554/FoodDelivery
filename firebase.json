@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/foodcorne_r",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
