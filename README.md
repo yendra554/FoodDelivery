@@ -1,27 +1,25 @@
-# FoodcorneR
+# Food Delivery (Angualr V 14)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
 
-## Development server
+## Sanpshot
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+home Page:
 
-## Code scaffolding
+![s](https://user-images.githubusercontent.com/38654469/211270748-5f5ea926-9b00-455e-8a32-54b1b348073c.PNG)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Search Page:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![ss](https://user-images.githubusercontent.com/38654469/211271668-64b86ffb-e406-448a-823d-3d65b62cc248.PNG)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Not Found Page:
+![notfound](https://user-images.githubusercontent.com/38654469/211271702-7d943cf8-b366-43b3-81a0-a44f91c6a269.PNG)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Cart Page:
 
-## Further help
+![n](https://user-images.githubusercontent.com/38654469/211270849-66857711-1388-4ad5-a229-31ce25dcdffb.PNG)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
